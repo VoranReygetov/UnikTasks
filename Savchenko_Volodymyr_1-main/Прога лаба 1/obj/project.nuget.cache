@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kajt3QtaYK1AHB9eP3R4UkGee2LlfyevPRhixQ+QR+IdG2J5aGZShk4Vez8SSmhR3xsrNtrNNRsbP6m0GQDxgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\voran\\source\\repos\\Прога лаба 1\\Прога лаба 1\\Прога лаба 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\voran\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

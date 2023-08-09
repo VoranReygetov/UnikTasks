@@ -1,0 +1,18 @@
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\Прога лаба 1.exe
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\Прога лаба 1.deps.json
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\Прога лаба 1.runtimeconfig.json
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\Прога лаба 1.runtimeconfig.dev.json
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\Прога лаба 1.dll
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\ref\Прога лаба 1.dll
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\Прога лаба 1.pdb
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.csproj.AssemblyReference.cache
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.AssemblyInfoInputs.cache
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.AssemblyInfo.cs
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.dll
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\ref\Прога лаба 1.dll
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.pdb
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.genruntimeconfig.cache
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\voran\source\repos\Прога лаба 1\Прога лаба 1\obj\Debug\net5.0\Прога лаба 1.csproj.CopyComplete
